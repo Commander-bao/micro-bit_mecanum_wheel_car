@@ -9,15 +9,15 @@
 
 ![](images/2.jpg)
 
-扩展的网址 https://github.com/Commander-bao/SuperBit.git 
+扩展的网址 https://github.com/lzty634158/SuperBit.git 搜索并下载
 
 ![](images/3.jpg)
 
-搜索并下载
+我们现在就可以使用扩展板上M1-M4的接口了
 
 ![](images/4.jpg)
 
-我们现在就可以使用扩展板上M1-M4的接口了
+
 
 
 ### 缓慢更新中
