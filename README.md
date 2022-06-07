@@ -33,7 +33,7 @@
 
 ![](images/7.jpg)
 
-## 这些都安好了之后，你就可以复制我的代码了。遥控的程序有两个，下载了superbit扩展的请使用superbitRemoteControl.py，下载了ominbit的请使用omnibit.py
+## 这些都安好了之后，你就可以复制我的代码了。遥控的程序有两个，下载了superbit扩展的请使用superbitRemoteControl.py，下载了ominbit的请使用omnibitRemoteControl.py
 
 
 # 缓慢更新中
