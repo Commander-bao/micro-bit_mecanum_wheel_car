@@ -35,5 +35,12 @@
 
 ## 这些都安好了之后，你就可以复制我的代码了。遥控的程序有两个，下载了superbit扩展的请使用superbitRemoteControl.py，下载了ominbit的请使用omnibitRemoteControl.py
 
+### 接下来是下载遥控的app
+
+网址 http://www.yahboom.net/software/app
+
+![](images/8.jpg)
+
+找到第二个即mbit，点击download就行了，根据你的手机是安卓还是ios来下载
 
 # 缓慢更新中
