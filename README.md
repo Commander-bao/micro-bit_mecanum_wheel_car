@@ -17,6 +17,9 @@
 
 ![](images/4.jpg)
 
+当然，想偷懒的也可以下载另一个扩展，网址 https://github.com/lzty634158/OmniBit.git
+
+
 
 
 
