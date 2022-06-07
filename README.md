@@ -25,7 +25,15 @@
 
 还有一点值得注意的是，这两个扩展时不兼容的，二者一起使用会导致编译错误
 
-## 遥控的程序有两个，下载了superbit扩展的请使用superbitRemoteControl.py，下载了ominbit的请使用omnibit.py
+下载完这两个扩展之后，还需要下载一个蓝牙扩展
+
+![](images/6.jpg)
+
+直接搜索bluetooth，第一个就是，然后他会提示你删除radio，那么按他说的来，因为microbit无线通信和蓝牙通信只能二选一
+
+![](images/7.jpg)
+
+## 这些都安好了之后，你就可以复制我的代码了。遥控的程序有两个，下载了superbit扩展的请使用superbitRemoteControl.py，下载了ominbit的请使用omnibit.py
 
 
 # 缓慢更新中
